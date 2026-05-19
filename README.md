@@ -1,10 +1,6 @@
 # TypeUI - Design skills and prompts for AI
 
-<img width="1448" height="1151" alt="Screenshot 2026-04-28 at 14 24 05" src="https://github.com/user-attachments/assets/b2bb4b43-5e56-4af4-bb28-71e0eb91f75c" />
-
-<br /> <br />
-
-[TypeUI](https://www.typeui.sh) is a new platform where you can use design skills, UI prompts, and other resources to enhance AI capabilities to generate better user interfaces and design when building websites and applications. The resources from this repository will work with any AI provider, given they support markdown files or general prompting.
+[TypeUI](https://www.typeui.sh) is an AI-first platform where you can use design skills, UI prompts, and other resources to enhance AI capabilities to generate better user interfaces and design when building websites and applications. The resources from this repository will work with any AI provider, given they support markdown files or general prompting.
 
 ## Getting started
 
