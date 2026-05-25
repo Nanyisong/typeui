@@ -1,4 +1,4 @@
-# TypeUI - Design skills and prompts for AI
+<img width="413" height="92" alt="skybridge-logo" src="https://github.com/user-attachments/assets/f6c7f510-f8f6-40f4-ba1f-d712b9967917" /># TypeUI - Design skills and prompts for AI
 
 [TypeUI](https://www.typeui.sh) is an AI-first platform where you can use design skills, UI prompts, and other resources to enhance AI capabilities to generate better user interfaces and design when building websites and applications. The resources from this repository will work with any AI provider, given they support markdown files or general prompting.
 
@@ -703,5 +703,7 @@ The CLI and public registry is open-source under the MIT License.
 Get access to enhanched design skill files, UI prompts for layouts and a private Discord community by getting the [pro version](https://www.typeui.sh/#pricing) and thus supporting our open-source work.
 
 ## Sponsors
+
+<img width="413" height="92" alt="skybridge" src="https://github.com/user-attachments/assets/88c401ee-b19b-4b78-9a7e-325337dba529" />
 
 If you'd like to become a sponsor of the project, please check out the [sponsorship page](https://www.typeui.sh/sponsor) on our website.
