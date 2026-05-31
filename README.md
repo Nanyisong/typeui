@@ -10,7 +10,7 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
   <tr>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/codex">
-        <img src="https://www.typeui.sh/ai-tools-logos/light/codex.svg" alt="Codex logo" height="48" />
+        <img src="https://www.typeui.sh/ai-tools-logos/light/codex.svg" alt="Codex logo" width="48" height="48" />
         <br /><br />
         <b>Codex</b>
       </a>
@@ -21,7 +21,7 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
     </td>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/claude">
-        <img src="https://www.typeui.sh/ai-tools-logos/light/claude-color.svg" alt="Claude logo" height="48" />
+        <img src="https://www.typeui.sh/ai-tools-logos/light/claude-icon.svg" alt="Claude logo" width="48" height="48" />
         <br /><br />
         <b>Claude</b>
       </a>
@@ -32,7 +32,7 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
     </td>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/cursor">
-        <img src="https://www.typeui.sh/ai-tools-logos/light/cursor.svg" alt="Cursor logo" height="48" />
+        <img src="https://www.typeui.sh/ai-tools-logos/light/cursor-icon.svg" alt="Cursor logo" width="48" height="48" />
         <br /><br />
         <b>Cursor</b>
       </a>
