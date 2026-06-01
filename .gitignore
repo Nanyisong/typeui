@@ -14,3 +14,7 @@ coverage
 /mistral-vibe
 .package-lock.json
 .mcpregistry_*
+
+# Zed extension build output
+plugins/zed/**/target/
+plugins/zed/**/extension.wasm

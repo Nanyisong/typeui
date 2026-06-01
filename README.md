@@ -46,6 +46,17 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
   </tr>
   <tr>
     <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/opencode">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/opencode.svg" alt="OpenCode logo" width="48" height="48" />
+        <br /><br />
+        <b>OpenCode</b>
+      </a>
+      <br />
+      <sub>Give OpenCode access to TypeUI design systems and prompts.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/opencode"><b>Install in OpenCode →</b></a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/vscode">
         <img src="https://www.typeui.sh/ai-tools-logos/light/vscode.svg" alt="Visual Studio Code logo" width="48" height="48" />
         <br /><br />
@@ -55,17 +66,6 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <sub>Connect GitHub Copilot in VS Code to TypeUI MCP.</sub>
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/vscode"><b>Install in VS Code →</b></a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.typeui.sh/docs/guides/jetbrains">
-        <img src="https://www.typeui.sh/ai-tools-logos/light/junie.svg" alt="Junie logo" width="48" height="48" />
-        <br /><br />
-        <b>JetBrains</b>
-      </a>
-      <br />
-      <sub>Connect JetBrains AI Assistant or Junie to TypeUI MCP.</sub>
-      <br /><br />
-      <a href="https://www.typeui.sh/docs/guides/jetbrains"><b>Install in JetBrains →</b></a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/antigravity">
@@ -81,17 +81,6 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://www.typeui.sh/docs/guides/opencode">
-        <img src="https://www.typeui.sh/ai-tools-logos/light/opencode.svg" alt="OpenCode logo" width="48" height="48" />
-        <br /><br />
-        <b>OpenCode</b>
-      </a>
-      <br />
-      <sub>Give OpenCode access to TypeUI design systems and prompts.</sub>
-      <br /><br />
-      <a href="https://www.typeui.sh/docs/guides/opencode"><b>Install in OpenCode →</b></a>
-    </td>
-    <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/windsurf">
         <img src="https://www.typeui.sh/ai-tools-logos/light/windsurf.svg" alt="Windsurf logo" width="48" height="48" />
         <br /><br />
@@ -101,6 +90,17 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <sub>Connect Windsurf Cascade to TypeUI MCP.</sub>
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/windsurf"><b>Install in Windsurf →</b></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/jetbrains">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/junie.svg" alt="Junie logo" width="48" height="48" />
+        <br /><br />
+        <b>JetBrains</b>
+      </a>
+      <br />
+      <sub>Connect JetBrains AI Assistant or Junie to TypeUI MCP.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/jetbrains"><b>Install in JetBrains →</b></a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/cline">
