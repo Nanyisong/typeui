@@ -103,6 +103,19 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <a href="https://www.typeui.sh/docs/guides/jetbrains"><b>Install in JetBrains →</b></a>
     </td>
     <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/zed">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/zed.svg" alt="Zed logo" width="48" height="48" />
+        <br /><br />
+        <b>Zed</b>
+      </a>
+      <br />
+      <sub>Add the hosted TypeUI MCP server to Zed.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/zed"><b>Open Zed guide →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/cline">
         <img src="https://www.typeui.sh/ai-tools-logos/light/cline.svg" alt="Cline logo" width="48" height="48" />
         <br /><br />
@@ -112,6 +125,28 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <sub>Add the hosted TypeUI MCP server to Cline.</sub>
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/cline"><b>Install in Cline →</b></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/qwen">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/qwen.svg" alt="Qwen logo" width="120" height="40" />
+        <br /><br />
+        <b>Qwen</b>
+      </a>
+      <br />
+      <sub>Add the hosted TypeUI MCP server to Qwen Code.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/qwen"><b>Open Qwen guide →</b></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/amp">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/ampcode.svg" alt="Amp logo" width="94" height="48" />
+        <br /><br />
+        <b>Amp</b>
+      </a>
+      <br />
+      <sub>Add the hosted TypeUI MCP server to Amp.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/amp"><b>Open Amp guide →</b></a>
     </td>
   </tr>
 </table>
