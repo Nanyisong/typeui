@@ -10,5 +10,6 @@ Tool-specific TypeUI plugins live in provider namespaces:
 - `cursor/typeui` for the Cursor plugin and Cursor marketplace package.
 - `vscode/typeui` for the VS Code / GitHub Copilot agent plugin and MCP configuration.
 - `opencode/typeui` for the OpenCode helper plugin and MCP configuration.
+- `gemini/typeui` for the Gemini CLI extension and MCP configuration.
 
 Marketplace entries can still expose each plugin as `typeui`; the namespaced folders only keep repository ownership clear as more tool plugins are added.

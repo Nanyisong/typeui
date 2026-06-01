@@ -44,6 +44,41 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <a href="https://www.typeui.sh/docs/guides/cursor"><b>Install in Cursor →</b></a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/vscode">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/vscode.svg" alt="Visual Studio Code logo" width="48" height="48" />
+        <br /><br />
+        <b>VS Code</b>
+      </a>
+      <br />
+      <sub>Connect GitHub Copilot in VS Code to TypeUI MCP.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/vscode"><b>Install in VS Code →</b></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/opencode">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/opencode.svg" alt="OpenCode logo" width="48" height="48" />
+        <br /><br />
+        <b>OpenCode</b>
+      </a>
+      <br />
+      <sub>Give OpenCode access to TypeUI design systems and prompts.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/opencode"><b>Install in OpenCode →</b></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/gemini-cli">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/gemini-cli.svg" alt="Gemini CLI logo" width="48" height="48" />
+        <br /><br />
+        <b>Gemini CLI</b>
+      </a>
+      <br />
+      <sub>Install the TypeUI Gemini CLI extension for UI generation workflows.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/gemini-cli"><b>Install in Gemini CLI →</b></a>
+    </td>
+  </tr>
 </table>
 
 ## Design skills
