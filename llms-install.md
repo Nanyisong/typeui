@@ -17,6 +17,7 @@ Add this server to Cline MCP settings:
   "mcpServers": {
     "typeui": {
       "url": "https://mcp.typeui.sh/mcp",
+      "type": "streamableHttp",
       "disabled": false,
       "autoApprove": []
     }
@@ -36,4 +37,3 @@ After installation, Cline should be able to use TypeUI tools for:
 - downloading TypeUI Pro resources for authenticated Pro users
 
 Documentation: https://www.typeui.sh/docs/guides/cline
-

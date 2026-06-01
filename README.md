@@ -57,6 +57,17 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <a href="https://www.typeui.sh/docs/guides/vscode"><b>Install in VS Code →</b></a>
     </td>
     <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/jetbrains">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/junie.svg" alt="Junie logo" width="48" height="48" />
+        <br /><br />
+        <b>JetBrains</b>
+      </a>
+      <br />
+      <sub>Connect JetBrains AI Assistant or Junie to TypeUI MCP.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/jetbrains"><b>Install in JetBrains →</b></a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/antigravity">
         <img src="https://www.typeui.sh/ai-tools-logos/light/antigravity.svg" alt="Antigravity logo" width="48" height="48" />
         <br /><br />
@@ -67,7 +78,6 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/antigravity"><b>Open Antigravity guide →</b></a>
     </td>
-    <td align="center" width="33%"></td>
   </tr>
   <tr>
     <td align="center" width="33%">
@@ -99,7 +109,7 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
         <b>Cline</b>
       </a>
       <br />
-      <sub>Install the TypeUI Cline plugin or connect the hosted MCP server.</sub>
+      <sub>Add the hosted TypeUI MCP server to Cline.</sub>
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/cline"><b>Install in Cline →</b></a>
     </td>
