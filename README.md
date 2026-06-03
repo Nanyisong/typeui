@@ -172,7 +172,17 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/goose"><b>Open Goose guide →</b></a>
     </td>
-    <td align="center" width="33%"></td>
+    <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/lovable">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/lovable-logo-icon.svg" alt="Lovable logo" width="48" height="48" />
+        <br /><br />
+        <b>Lovable</b>
+      </a>
+      <br />
+      <sub>Add the hosted TypeUI MCP server to Lovable.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/lovable"><b>Open Lovable guide →</b></a>
+    </td>
   </tr>
 </table>
 
